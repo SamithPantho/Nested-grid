@@ -1,0 +1,14 @@
+.custom_bg{
+	background-color: orange;
+	padding: 10px 0;
+}
+.bgc{
+	background-color: blue;
+	border: 5px solid green;
+}
+.break{
+	margin-bottom: 20px;
+}
+.red{
+	background-color: red;
+}
